@@ -2,7 +2,7 @@
 10 CSmajor books | 12 essential books | 3 mustread books | 3 tools books | 4 Management books | futurist authors | Interview Prep | lang - c# | lang - c_c++ | lang - go | lang - java | lang - python | misc | non-technical | README.md | sub: AoA | sub: DataScience | sub: NLP
 
 # Books
-## 10 CSmajor books
+## CSmajor books
 - Algorithms to Live By - Brian Christian, Tom Griffiths.pdf
 - The Soul of a New Machine - Tracy Kidder.pdf
 - Data and Reality - William Kent, Steve Hoberman.pdf
