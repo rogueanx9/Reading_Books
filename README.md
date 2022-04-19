@@ -3,29 +3,29 @@
 
 # Books
 ## 10 CSmajor books
-- 01. Algorithms to Live By - Brian Christian, Tom Griffiths.pdf
-- 02. The Soul of a New Machine - Tracy Kidder.pdf
-- 03. Data and Reality - William Kent, Steve Hoberman.pdf
-- 04. Hackers - Steven Levy.pdf
-- 05. Superintelligence - Nick Bostrom.pdf
-- 06. The Chip - TR Reid.pdf
-- 07. IT infrastructure architecture - Sjaak Laan.pdf
-- 08. The Innovators - Walter Isaacson.pdf
-- 09. Understanding the Digital World - Brian Kernighan.pdf
-- 10. The Search - John Battelle.pdf
+- Algorithms to Live By - Brian Christian, Tom Griffiths.pdf
+- The Soul of a New Machine - Tracy Kidder.pdf
+- Data and Reality - William Kent, Steve Hoberman.pdf
+- Hackers - Steven Levy.pdf
+- Superintelligence - Nick Bostrom.pdf
+- The Chip - TR Reid.pdf
+- IT infrastructure architecture - Sjaak Laan.pdf
+- The Innovators - Walter Isaacson.pdf
+- Understanding the Digital World - Brian Kernighan.pdf
+- The Search - John Battelle.pdf
 
 ## essential books
-- 01. Code Complete 2 - Steve McConnell.pdf
-- 02. The Pragmatic Programmer - Andrew Hunt, David Thomas.pdf
-- 03. Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Sussman.pdf
-- 04. Introduction to Algorithms - CLRS.pdf
-- 05. Clean Code - Robert Martin.pdf
-- 06. Refactoring -  Martin Fowler.pdf
-- 08. Code - Charles Petzold.pdf
-- 09. Programming Pearls - Jon Bentley.pdf
-- 10. Design Patterns - GOF.pdf
-- 11. The Mythical Man Month - Frederick Brooks.pdf
-- 12. Working Effectively With Legacy Code - Michael Feathers.pdf
+- Code Complete 2 - Steve McConnell.pdf
+- The Pragmatic Programmer - Andrew Hunt, David Thomas.pdf
+- Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Sussman.pdf
+- Introduction to Algorithms - CLRS.pdf
+- Clean Code - Robert Martin.pdf
+- Refactoring -  Martin Fowler.pdf
+- Code - Charles Petzold.pdf
+- Programming Pearls - Jon Bentley.pdf
+- Design Patterns - GOF.pdf
+- The Mythical Man Month - Frederick Brooks.pdf
+- Working Effectively With Legacy Code - Michael Feathers.pdf
 
 ## mustread books
 - Computer Network - James Kurose, Keith Ross .pdf
